@@ -18,11 +18,11 @@
 
 本项目数据来自以下书籍和资源：
 
-| 数据源 | 说明 |
-|--------|------|
-| [《Lingua Latina per se Illustrata》](https://book.douban.com/subject/6692001/) | 拉丁语经典教材，提供拉丁语多语言词汇表（1,906 条） |
-| [《The Loom of Languages》](https://book.douban.com/subject/2174464/) | 语言学习经典著作，提供罗曼语族与日耳曼语族的对照单词表（3,372 条） |
-| [《你应该记住的拉丁语1234句》](https://book.douban.com/subject/26882919/) | 拉丁语短语合集，提供常用拉丁短语 5,389 条 |
+| 数据源 | 作者 | 说明 |
+|--------|------|------|
+| [《Lingua Latina per se Illustrata》](https://book.douban.com/subject/6692001/) | Hans Henning Orberg（汉斯·亨宁·奥尔博格） | 拉丁语经典教材，提供拉丁语多语言词汇表（1,906 条） |
+| [《The Loom of Languages》](https://book.douban.com/subject/2174464/) | Frederick Bodmer（弗雷德里克·博德默） | 语言学习经典著作，提供罗曼语族与日耳曼语族的对照单词表（3,372 条） |
+| [《你应该记住的拉丁语1234句》](https://book.douban.com/subject/26882919/) | Michele Ferrero（麦克雷） | 拉丁语短语合集，提供常用拉丁短语 5,389 条 |
 
 > ⚠️ 俄语和波兰语翻译由 AI 辅助生成，可能存在不准确之处，建议配合专业词典使用。
 
