@@ -1,6 +1,6 @@
-# 多语言词汇对比表 · Loom of Language
+# One_for_All_Level_1
 
-**Version 1.0 正式版**
+**Version 1.0 正式版** · *Max Conductor with Workbuddy*
 
 ---
 
