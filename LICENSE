@@ -1,4 +1,28 @@
-MIT License
+================================================================================
+
+内容 / 数据 License：Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+================================================================================
+
+本项目中的词汇数据（"内容"）来自以下公开资料，仅供个人学习使用：
+
+  - Lingua Latina per se Illustrata (LLPSI)
+  - The Loom of Languages by Dave Maddock
+  - 你应该记住的拉丁语1234句
+
+采用 Creative Commons BY-NC-SA 4.0 协议。
+
+| 要素 | 含义 |
+|------|------|
+| BY（署名） | 必须标注上述原作者/来源 |
+| NC（非商业） | 禁止任何形式的商业使用 |
+| SA（相同方式共享） | 衍生作品必须采用相同协议发布 |
+
+完整协议内容见：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+
+================================================================================
+
+代码 License：MIT License
+================================================================================
 
 Copyright (c) 2026 Max Linker Alpha
 
@@ -19,3 +43,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+================================================================================
